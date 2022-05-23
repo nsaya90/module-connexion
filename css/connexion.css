@@ -1,0 +1,60 @@
+body{
+    background-image:url(../image/background_connexion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+p{
+    font-family:'Ubuntu Condensed', sans-serif;
+    font-size: large;
+}
+
+a
+{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.box_header
+{
+    padding-top: 5%;
+    margin: -2%;
+    background-color: white;
+    height: 45px;
+}
+
+.box_lien
+{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    padding-left: 5%;
+}
+
+
+h1{
+    font-family: 'Rajdhani', sans-serif;
+    color: white;
+    text-shadow:gainsboro 4px 4px 5px;
+}
+
+h2{
+    font-family: 'Yantramanav', sans-serif;
+    color: white;
+}
+
+.main{
+    padding-left: 3%;
+}
+
+.bouton{
+    padding-left: 3%;
+}
+.box_form{
+    
+    padding: 5%;
+    width: 10%;
+    border: solid 2px white;
+    border-radius: 10px;
+}

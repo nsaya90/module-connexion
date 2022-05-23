@@ -1,0 +1,86 @@
+body
+{
+    background-image: url(../image/background_index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a
+{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+h1{
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+}
+
+p
+{
+    font-family:'Ubuntu Condensed', sans-serif;
+    font-size: large;
+    color: white;
+}
+
+
+.box_header
+{
+    padding-top: 5%;
+    margin: -2%;
+    background-color: white;
+    height: 45px;
+   
+}
+.box_lien
+{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    padding-left: 5%;
+}
+
+.box_txt1
+{
+    text-align: left;
+    padding-top: 2%;
+    width: 50%;
+}
+
+.box_txt2
+{
+    width: 70%;
+}
+
+.image2_index
+{
+    opacity: 0.8;
+}
+.big_box1
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main_box2
+{
+   
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.box_txt3
+{
+    width: 50%;
+}
+
+.main_box3
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+

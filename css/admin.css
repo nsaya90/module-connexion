@@ -1,0 +1,65 @@
+body
+{
+    background-image: url(../image/background_admin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+    box-shadow: black 2px 3px 3px;
+}
+
+h2
+{
+    font-family:'Ubuntu Condensed', sans-serif;
+    font-size: 35px;
+    color: white;
+}
+
+
+.box_header
+{
+    padding-top: 5%;
+    margin: -2%;
+    background-color: white;
+    height: 45px;
+}
+
+.box_lien
+{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    padding-left: 5%;
+}
+
+
+th
+{
+    font-family:'Ubuntu Condensed', sans-serif;
+    font-size: 25px;
+    color: white;
+    
+}
+
+td
+{
+    font-family:'Ubuntu Condensed', sans-serif;
+    font-size: large;
+    color: white;
+}
+
+a
+{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.main_admin
+{
+    padding-top: 5%;
+}
+

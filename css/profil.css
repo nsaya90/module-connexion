@@ -1,0 +1,47 @@
+body{
+
+    background-image: url(../image/background_profil.jpg);
+}
+
+h1{
+    color: white;
+    font-family: 'Rajdhani', sans-serif;
+    text-align: center;
+}
+
+.box_header
+{
+    padding-top: 5%;
+    margin: -2%;
+    background-color: white;
+    height: 45px;
+}
+
+.box_lien
+{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    padding-left: 5%;
+}
+
+
+p
+{
+    font-family:'Ubuntu Condensed', sans-serif;
+    font-size: large;
+    color: white;
+}
+
+a
+{
+    text-decoration: none;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+li
+{
+    font-family:'Ubuntu Condensed', sans-serif;
+    font-size: 30px;
+    color: white;
+}
